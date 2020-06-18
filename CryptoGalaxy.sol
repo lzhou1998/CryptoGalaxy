@@ -1,6 +1,6 @@
 // Copyrights(c) 2020 Zhou Le, Tang Jingyao
 
-// Course project of EE447 spring semester, 2020, Shanghai JiaoTong University
+// Course project of EE357 spring semester, 2020, Shanghai JiaoTong University
 
 // The contract source file of game "Crypto Galaxy"
 
