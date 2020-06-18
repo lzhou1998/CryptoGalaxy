@@ -9,6 +9,8 @@ Group member: 周乐(Zhou Le) and 唐静瑶(Tang Jingyao)
 Only use for research and study
 
 
-The /dist directory store the files of front-end websites.
+The /dist directory store the compiled and image files of front-end websites.
+
+The /src directory store the source files of front-end websites.
 
 The CryptoGalaxy.sol is the source code file of contract.
