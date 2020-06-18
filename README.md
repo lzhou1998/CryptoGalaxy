@@ -10,6 +10,8 @@ Only use for research and study
 
 Tips: this project has the same name as CryptoGalaxy in https://cryptogalaxy.one/ by GALAXY.ONE, which is completely irrelevant to our work.
 
+You can play the DEMO version of our game at http://139.9.53.139/, by setting MetaMask connect to http://139.9.53.139:8545 with chain ID 233.
+
 
 The /dist directory store the compiled and image files of front-end websites.
 
