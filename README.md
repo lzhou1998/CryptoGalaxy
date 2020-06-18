@@ -8,6 +8,8 @@ Group member: 周乐(Zhou Le) and 唐静瑶(Tang Jingyao)
 
 Only use for research and study
 
+Tips: this project has the same name as CryptoGalaxy in https://cryptogalaxy.one/ by GALAXY.ONE, which is completely irrelevant to our work.
+
 
 The /dist directory store the compiled and image files of front-end websites.
 
