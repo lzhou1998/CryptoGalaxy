@@ -6,4 +6,4 @@ Contract source code of CryptoGalaxy of in EE447, spring semester, 2020, Shangha
 
 Group member: 周乐(Zhou Le) and 唐静瑶(Tang Jingyao)
 
-Only user for research and study
+Only use for research and study
