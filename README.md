@@ -2,7 +2,7 @@
 
 Copyrights(c) @2020 by Zhou Le, Tang Jingyao
 
-Contract and website source code of CryptoGalaxy -- course project of EE447, spring semester, 2020, Shanghai Jiao Tong University
+Contract and website source code of CryptoGalaxy -- course project of EE357 <Computer Network>, spring semester, 2020, Shanghai Jiao Tong University
 
 Group member: 周乐(Zhou Le) and 唐静瑶(Tang Jingyao)
 
